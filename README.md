@@ -31,8 +31,6 @@ source myenv/bin/activate
 
 ## Requirements
 
-cd task-assignment
-
 pip install -r requirements.txt
 
 ## 4. Apply Migrations
