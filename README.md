@@ -8,7 +8,7 @@ This is a simple Task Management System built using Django and Django REST Frame
 
 ## 1. Clone the Repository
 
-git clone git@github.com-personal:diwyanshuprasad19/task-assignment.git
+git clone git@github.com:diwyanshuprasad19/task-assignment.git
 
 
 ## Set Up Virtual Environment
