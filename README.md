@@ -39,6 +39,7 @@ pip install -r requirements.txt
 Generate and apply migrations for the application.
 
 python manage.py makemigrations accounts task
+
 python manage.py migrate
 
 ## Run the Server
@@ -53,13 +54,16 @@ http://127.0.0.1:8000/
 ## Admin credentials
 
 Email: admin@local.com
+
 Password: 12345
 
 ## API Testing
 You can test the APIs using two ways:
 
 1. api_test.txt
+
 This file contains sample request-response pairs for all available APIs.
 
 2. api_collection.json (Postman Collection)
+
 Import this file into Postman to quickly access and test all the APIs.
