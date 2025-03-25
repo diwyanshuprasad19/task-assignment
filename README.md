@@ -35,13 +35,13 @@ cd task-assignment
 
 pip install -r requirements.txt
 
-##4. Apply Migrations
+## 4. Apply Migrations
 Generate and apply migrations for the application.
 
 python manage.py makemigrations accounts task
 python manage.py migrate
 
-##Run the Server
+## Run the Server
 Start the Django development server.
 
 python manage.py runserver
